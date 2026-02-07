@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CsharpDay03/1.0.0": {
+        "runtime": {
+          "CsharpDay03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsharpDay03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

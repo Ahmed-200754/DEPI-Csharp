@@ -1,0 +1,15 @@
+C:\Ahmed\Depi tasks\Csharp\Ahmed Ali Faried - Csharp09\CsharpDay09\bin\Debug\net5.0\CsharpDay09.exe
+C:\Ahmed\Depi tasks\Csharp\Ahmed Ali Faried - Csharp09\CsharpDay09\bin\Debug\net5.0\CsharpDay09.deps.json
+C:\Ahmed\Depi tasks\Csharp\Ahmed Ali Faried - Csharp09\CsharpDay09\bin\Debug\net5.0\CsharpDay09.runtimeconfig.json
+C:\Ahmed\Depi tasks\Csharp\Ahmed Ali Faried - Csharp09\CsharpDay09\bin\Debug\net5.0\CsharpDay09.runtimeconfig.dev.json
+C:\Ahmed\Depi tasks\Csharp\Ahmed Ali Faried - Csharp09\CsharpDay09\bin\Debug\net5.0\CsharpDay09.dll
+C:\Ahmed\Depi tasks\Csharp\Ahmed Ali Faried - Csharp09\CsharpDay09\bin\Debug\net5.0\CsharpDay09.pdb
+C:\Ahmed\Depi tasks\Csharp\Ahmed Ali Faried - Csharp09\CsharpDay09\obj\Debug\net5.0\CsharpDay09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ahmed\Depi tasks\Csharp\Ahmed Ali Faried - Csharp09\CsharpDay09\obj\Debug\net5.0\CsharpDay09.AssemblyInfoInputs.cache
+C:\Ahmed\Depi tasks\Csharp\Ahmed Ali Faried - Csharp09\CsharpDay09\obj\Debug\net5.0\CsharpDay09.AssemblyInfo.cs
+C:\Ahmed\Depi tasks\Csharp\Ahmed Ali Faried - Csharp09\CsharpDay09\obj\Debug\net5.0\CsharpDay09.csproj.CoreCompileInputs.cache
+C:\Ahmed\Depi tasks\Csharp\Ahmed Ali Faried - Csharp09\CsharpDay09\obj\Debug\net5.0\CsharpDay09.dll
+C:\Ahmed\Depi tasks\Csharp\Ahmed Ali Faried - Csharp09\CsharpDay09\obj\Debug\net5.0\refint\CsharpDay09.dll
+C:\Ahmed\Depi tasks\Csharp\Ahmed Ali Faried - Csharp09\CsharpDay09\obj\Debug\net5.0\CsharpDay09.pdb
+C:\Ahmed\Depi tasks\Csharp\Ahmed Ali Faried - Csharp09\CsharpDay09\obj\Debug\net5.0\CsharpDay09.genruntimeconfig.cache
+C:\Ahmed\Depi tasks\Csharp\Ahmed Ali Faried - Csharp09\CsharpDay09\obj\Debug\net5.0\ref\CsharpDay09.dll

@@ -1,0 +1,15 @@
+C:\Ahmed\Depi tasks\Unity\Ahmed Ali Faried - LINQ and EF Day01\LINQ&EFDay01\bin\Debug\net5.0\LINQ&EFDay01.exe
+C:\Ahmed\Depi tasks\Unity\Ahmed Ali Faried - LINQ and EF Day01\LINQ&EFDay01\bin\Debug\net5.0\LINQ&EFDay01.deps.json
+C:\Ahmed\Depi tasks\Unity\Ahmed Ali Faried - LINQ and EF Day01\LINQ&EFDay01\bin\Debug\net5.0\LINQ&EFDay01.runtimeconfig.json
+C:\Ahmed\Depi tasks\Unity\Ahmed Ali Faried - LINQ and EF Day01\LINQ&EFDay01\bin\Debug\net5.0\LINQ&EFDay01.runtimeconfig.dev.json
+C:\Ahmed\Depi tasks\Unity\Ahmed Ali Faried - LINQ and EF Day01\LINQ&EFDay01\bin\Debug\net5.0\LINQ&EFDay01.dll
+C:\Ahmed\Depi tasks\Unity\Ahmed Ali Faried - LINQ and EF Day01\LINQ&EFDay01\bin\Debug\net5.0\LINQ&EFDay01.pdb
+C:\Ahmed\Depi tasks\Unity\Ahmed Ali Faried - LINQ and EF Day01\LINQ&EFDay01\obj\Debug\net5.0\LINQ&EFDay01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ahmed\Depi tasks\Unity\Ahmed Ali Faried - LINQ and EF Day01\LINQ&EFDay01\obj\Debug\net5.0\LINQ&EFDay01.AssemblyInfoInputs.cache
+C:\Ahmed\Depi tasks\Unity\Ahmed Ali Faried - LINQ and EF Day01\LINQ&EFDay01\obj\Debug\net5.0\LINQ&EFDay01.AssemblyInfo.cs
+C:\Ahmed\Depi tasks\Unity\Ahmed Ali Faried - LINQ and EF Day01\LINQ&EFDay01\obj\Debug\net5.0\LINQ&EFDay01.csproj.CoreCompileInputs.cache
+C:\Ahmed\Depi tasks\Unity\Ahmed Ali Faried - LINQ and EF Day01\LINQ&EFDay01\obj\Debug\net5.0\LINQ&EFDay01.dll
+C:\Ahmed\Depi tasks\Unity\Ahmed Ali Faried - LINQ and EF Day01\LINQ&EFDay01\obj\Debug\net5.0\refint\LINQ&EFDay01.dll
+C:\Ahmed\Depi tasks\Unity\Ahmed Ali Faried - LINQ and EF Day01\LINQ&EFDay01\obj\Debug\net5.0\LINQ&EFDay01.pdb
+C:\Ahmed\Depi tasks\Unity\Ahmed Ali Faried - LINQ and EF Day01\LINQ&EFDay01\obj\Debug\net5.0\LINQ&EFDay01.genruntimeconfig.cache
+C:\Ahmed\Depi tasks\Unity\Ahmed Ali Faried - LINQ and EF Day01\LINQ&EFDay01\obj\Debug\net5.0\ref\LINQ&EFDay01.dll
